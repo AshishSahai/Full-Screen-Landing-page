@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="./style.css">
+	<title>WonderWoman</title>
+</head>
+<body>
+<header id="showcase">
+	
+	<h1>Welcome To The WonderWorld</h1>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi cumque quam dolores, vel vero?</p>
+   <a href="#"  class="button"><strong>Read More</strong></a>
+  
+
+
+
+
+
+</header>	
+<section id="section-a">
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatum repellat ipsam, nobis vel saepe architecto, sit nisi beatae necessitatibus, suscipit eligendi minima corporis? Necessitatibus eveniet incidunt soluta ab labore ea consectetur, veniam voluptates dolores adipisci reiciendis asperiores, corporis doloribus officiis fuga eos iure nobis quibusdam totam rerum dolorem repellat laborum ratione cumque? Maiores illo dolorem voluptas placeat sapiente. Id unde tempora assumenda temporibus, ipsa sit eos sed ipsam odio, dicta a ea eius sunt iste asperiores quia necessitatibus quam, nisi corrupti laborum. Delectus, quas minima repellat, tempora sint praesentium, quidem, ullam perferendis temporibus animi commodi distinctio id cupiditate corrupti!</p>
+</section>
+<section id="section-b">
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatum repellat ipsam, nobis vel saepe architecto, sit nisi beatae necessitatibus, suscipit eligendi minima corporis? Necessitatibus eveniet incidunt soluta ab labore ea consectetur, veniam voluptates dolores adipisci reiciendis asperiores, corporis doloribus officiis fuga eos iure nobis quibusdam totam rerum dolorem repellat laborum ratione cumque? Maiores illo dolorem voluptas placeat sapiente. Id unde tempora assumenda temporibus, ipsa sit eos sed ipsam odio, dicta a ea eius sunt iste asperiores quia necessitatibus quam, nisi corrupti laborum. Delectus, quas minima repellat, tempora sint praesentium, quidem, ullam perferendis temporibus animi commodi distinctio id cupiditate corrupti!</p>
+</section>
+<section id="section-c">
+	<div class="box-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi et deleniti magnam cupiditate eaque sequi dolorem recusandae labore aspernatur, dicta.</div>
+	<div class="box-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam id dolorem nihil, rerum provident corporis perspiciatis excepturi praesentium, obcaecati in!</div>
+	<div class="box-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ullam quae doloribus eveniet. Iusto, impedit nihil odio voluptatum quas deleniti!</div>
+</section>
+</body>
+</html>
